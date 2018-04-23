@@ -1,0 +1,13 @@
+﻿La génération a démarré 2017-10-19 12:09:29.
+     1>Projet "C:\Users\BOUJ175787\Documents\Structure de données\Semaine 7\Jess-TP7\parcoursSalle\parcoursSalle.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\BOUJ175787\Documents\Structure de données\Semaine 7\Jess-TP7\parcoursSalle" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt array.cpp
+         array.cpp
+     1>c:\users\bouj175787\documents\structure de données\semaine 7\jess-tp7\parcourssalle\array.cpp(90): error C2039: 'capacwsity' : n'est pas membre de 'array'
+                 c:\users\bouj175787\documents\structure de données\semaine 7\jess-tp7\parcourssalle\array.h(8) : voir la déclaration de 'array'
+     1>c:\users\bouj175787\documents\structure de données\semaine 7\jess-tp7\parcourssalle\array.cpp(90): error C2660: 'resize' : la fonction ne prend pas 2 arguments
+     1>Génération du projet "C:\Users\BOUJ175787\Documents\Structure de données\Semaine 7\Jess-TP7\parcoursSalle\parcoursSalle.vcxproj" terminée (Build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.72
